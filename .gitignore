@@ -5,3 +5,4 @@ CACHEDIR.TAG
 
 *.class
 ../*.class
+.env.local
