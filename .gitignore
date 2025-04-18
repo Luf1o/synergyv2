@@ -1,0 +1,7 @@
+Scripts
+Lib
+*.pyc
+CACHEDIR.TAG
+
+*.class
+../*.class
